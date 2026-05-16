@@ -1,1 +1,0 @@
-﻿Aprender a usar la terminal es muy importante para mí como un futuro desarrollador porque me ayuda a trabajar de una forma más rápida y organizada con la terminal puedo moverme entre carpetas y encontrar archivos fácilmente dentro de un proyecto y también me ayuda a entender mucho mejor
