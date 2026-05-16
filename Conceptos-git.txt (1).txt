@@ -1,0 +1,7 @@
+﻿-Repositorio: es el lugar donde se guardan los archivos y el historial de cambios de un proyecto github 
+
+
+-Commit: es un registro de los cambios realizados en los archivos del proyecto 
+
+
+-Push: es un comando que se usa para los cambios del repositorio
