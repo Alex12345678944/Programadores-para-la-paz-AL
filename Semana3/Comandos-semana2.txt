@@ -1,0 +1,6 @@
+﻿ls
+mkdir semana 2
+cd semana 2
+toque preguntas-semana 2. txt
+tocar comandos-terminal. txt
+toque reflexión-semana 2. txt
